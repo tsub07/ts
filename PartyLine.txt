@@ -1,0 +1,12 @@
+GIFT
+ARRIVE:Lobelia
+ARRIVE:Otho
+ARRIVE:Sam
+GIFT
+ARRIVE:Merry
+ARRIVE:Pippin
+GIFT
+ARRIVE:Frodo
+ARRIVE:Rosie
+GIFT
+ARRIVE:Gaffer
